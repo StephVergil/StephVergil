@@ -7,18 +7,18 @@ Adaptable cybersecurity professional with expertise in risk assessment, vulnerab
 I’m passionate about solving complex challenges and advancing secure IT practices.
 
 ## Skills
-| Skill                                         | Associated Project                                                                 |
-|-----------------------------------------------|-----------------------------------------------------------------------------------|
-| Information Systems Security                  | <a href="https://github.com/username/repo/assignments/Fortifying_Foundations.pdf">Fortifying Foundations: 20 Key Hardening Strategies</a> |
-| Malicious Attacks, Threats, and Vulnerabilities| <a href="https://github.com/username/repo/assignments/NIDS_HIDS_Alerts.pdf">Identifying and Analyzing NIDS/HIDS Alerts</a>         |
-| Scanning and Analysis Tools                   | <a href="https://github.com/username/repo/assignments/Wireless_Attacks.pdf">Wireless Networking Attack and Mitigation Techniques</a> |
-| Cryptography in Information Security          | <a href="https://github.com/username/repo/assignments/Cryptography_Concepts.pdf">Cryptography Concepts</a>                              |
-| Networking Principles and Security Mechanisms | <a href="https://github.com/username/repo/assignments/Firewalls_Network_Security.pdf">Firewalls & Network Security</a>                       |
-| Incident Response and Disaster Recovery       | <a href="https://github.com/username/repo/assignments/Incident_Response.pdf">Incident Response Procedures</a>                       |
-| Hacking and Ethical Hacking                   | <a href="https://github.com/username/repo/assignments/Ethical_Hacking.pdf">Ethical Hacking</a>                                    |
-| Vulnerability Testing                         | <a href="https://github.com/username/repo/assignments/Security_Assessment.pdf">Security Assessment & Auditing</a>                     |
-| Computer System Forensics                     | <a href="737 MAX REPORT 2.docx.pdf">Analysis of the 737 MAX Incidents</a>                  |
 
+| **Skill**                                     | **Associated Project**                                                                                                 |
+|-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| Information Systems Security                  | Fortifying Foundations: 20 Key Hardening Strategies                                                                   |
+| Malicious Attacks, Threats, and Vulnerabilities| Identifying and Analyzing NIDS/HIDS Alerts                                                                            |
+| Scanning and Analysis Tools                   | Wireless Networking Attack and Mitigation Techniques                                                                  |
+| Cryptography in Information Security          | Cryptography Concepts                                                                                                 |
+| Networking Principles and Security Mechanisms | Firewalls & Network Security                                                                                          |
+| Incident Response and Disaster Recovery       | Incident Response Procedures                                                                                          |
+| Hacking and Ethical Hacking                   | Ethical Hacking                                                                                                       |
+| Vulnerability Testing                         | Security Assessment & Auditing                                                                                       |
+| Computer System Forensics                     | [Analysis of the 737 MAX Incidents - Part 1](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/737%20MAX%20Report%20!.docx.pdf), [Part 2](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/737%20MAX%20REPORT%202.docx.pdf) |
 
 ## Tools
 
