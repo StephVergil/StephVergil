@@ -7,18 +7,20 @@ Adaptable cybersecurity professional with expertise in risk assessment, vulnerab
 I’m passionate about solving complex challenges and advancing secure IT practices.
 
 ## Skills
+## Skills
 
 | **Skill**                                     | **Associated Project**                                                                                                 |
 |-----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| Information Systems Security                  | Fortifying Foundations: 20 Key Hardening Strategies                                                                   |
-| Malicious Attacks, Threats, and Vulnerabilities| Identifying and Analyzing NIDS/HIDS Alerts                                                                            |
-| Scanning and Analysis Tools                   | Wireless Networking Attack and Mitigation Techniques                                                                  |
-| Cryptography in Information Security          | Cryptography Concepts                                                                                                 |
-| Networking Principles and Security Mechanisms | Firewalls & Network Security                                                                                          |
-| Incident Response and Disaster Recovery       | Incident Response Procedures                                                                                          |
-| Hacking and Ethical Hacking                   | Ethical Hacking                                                                                                       |
-| Vulnerability Testing                         | Security Assessment & Auditing                                                                                       |
+| Information Systems Security                  | [Fortifying Foundations: 20 Key Hardening Strategies](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/Project%20Fortifying%20Foundations%2020%20Key%20Hardening%20Strategies%20Across%20Diverse%20Systems%5E.docx) |
+| Malicious Attacks, Threats, and Vulnerabilities| [Identifying and Analyzing NIDS/HIDS Alerts](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/Identifying%20and%20Analyzing%20Network%20Host%20Intrusion%20Detection%20System%20NIDS%20HIDS%20Alerts%20copy.docx) |
+| Scanning and Analysis Tools                   | [Wireless Networking Attack and Mitigation Techniques](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/Wireless%20Networking%20Attack%20and%20Mitigation%20Techniques-Stephanie%E2%80%99s%20MacBook%20Pro.docx) |
+| Cryptography in Information Security          | [Cryptography Concepts](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/Cryptography%20Concepts%20copy.docx)                                                                 |
+| Networking Principles and Security Mechanisms | [Firewalls & Network Security](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/Host%20Hardening.docx)                                                                                          |
+| Incident Response and Disaster Recovery       | [Incident Response Procedures](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/Incident%20Reponse%20Procedures.docx)                                                                                          |
+| Hacking and Ethical Hacking                   | [Ethical Hacking](#)                                                                                                       |
+| Vulnerability Testing                         | [Security Assessment & Auditing](#)                                                                                       |
 | Computer System Forensics                     | [Analysis of the 737 MAX Incidents - Part 1](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/737%20MAX%20Report%20!.docx.pdf), [Part 2](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/737%20MAX%20REPORT%202.docx.pdf) |
+
 
 ## Tools
 
