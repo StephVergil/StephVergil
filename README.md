@@ -17,7 +17,7 @@ I’m passionate about solving complex challenges and advancing secure IT practi
 | Incident Response and Disaster Recovery       | <a href="https://github.com/username/repo/assignments/Incident_Response.pdf">Incident Response Procedures</a>                       |
 | Hacking and Ethical Hacking                   | <a href="https://github.com/username/repo/assignments/Ethical_Hacking.pdf">Ethical Hacking</a>                                    |
 | Vulnerability Testing                         | <a href="https://github.com/username/repo/assignments/Security_Assessment.pdf">Security Assessment & Auditing</a>                     |
-| Computer System Forensics                     | <a href="https://github.com/username/repo/assignments/737_MAX_Analysis.pdf">Analysis of the 737 MAX Incidents</a>                  |
+| Computer System Forensics                     | <a href="737 MAX REPORT 2.docx.pdf">Analysis of the 737 MAX Incidents</a>                  |
 
 
 ## Tools
