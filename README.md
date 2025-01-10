@@ -1,10 +1,10 @@
 # Hi, I'm Stephanie Vergil
 <a href="https://linkedin.com/in/stephanie-vergil-8982142a8"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Adaptable cybersecurity professional with expertise in risk assessment, vulnerability management, and IT operations. Skilled in Active Directory, cloud platforms (AWS, Azure), and programming languages including Python, PowerShell, and C++. I have a proven record of reducing organizational risks, enhancing system security, and driving business continuity. Bilingual in English and Spanish, I’m passionate about solving complex challenges and advancing secure IT practices.
+Adaptable cybersecurity professional with expertise in risk assessment, vulnerability management, and IT operations. Skilled in Active Directory, cloud platforms (AWS, Azure), and programming languages including Python, PowerShell, and C++. I have a proven record of reducing organizational risks, enhancing system security, and driving business continuity. Bilingual in English and Spanish.
 
 ## Objective
-My journey in computer science has led me to develop a passion for cybersecurity.
+I’m passionate about solving complex challenges and advancing secure IT practices.
 
 ## Skills
 
