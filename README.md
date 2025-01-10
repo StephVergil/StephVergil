@@ -6,7 +6,7 @@ Adaptable cybersecurity professional with expertise in risk assessment, vulnerab
 ## Objective
 I’m passionate about solving complex challenges and advancing secure IT practices.
 
-## Skills
+
 ## Skills
 
 | **Skill**                                     | **Associated Project**                                                                                                 |
@@ -17,9 +17,10 @@ I’m passionate about solving complex challenges and advancing secure IT practi
 | Cryptography in Information Security          | [Cryptography Concepts](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/Cryptography%20Concepts%20copy.docx)                                                                 |
 | Networking Principles and Security Mechanisms | [Firewalls & Network Security](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/Host%20Hardening.docx)                                                                                          |
 | Incident Response and Disaster Recovery       | [Incident Response Procedures](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/Incident%20Reponse%20Procedures.docx)                                                                                          |
-| Hacking and Ethical Hacking                   | [Ethical Hacking](#)                                                                                                       |
-| Vulnerability Testing                         | [Security Assessment & Auditing](#)                                                                                       |
-| Computer System Forensics                     | [Analysis of the 737 MAX Incidents - Part 1](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/737%20MAX%20Report%20!.docx.pdf), [Part 2](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/737%20MAX%20REPORT%202.docx.pdf) |
+| Hacking and Ethical Hacking                   | [Project Overview](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/Project.docx), [Original Python Code](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/Original%20Python%20Code.py), [Improved Python Code](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/Improved%20Python%20Code.py) |
+| Vulnerability Testing                         | [Analysis of the 737 MAX Incidents - Part 1](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/737%20MAX%20Report%20!.docx.pdf), [Part 2](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/737%20MAX%20REPORT%202.docx.pdf) |
+| Computer System Forensics                     | [Steganography Lab Instructions](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/Steganography_lab%20Cengage.docx), [Steganography Lab Results](https://github.com/StephVergil/Cybersecurity-Projects/blob/main/SteganographyResults.aspx.pdf) |
+
 
 
 ## Tools
