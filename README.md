@@ -7,17 +7,18 @@ Adaptable cybersecurity professional with expertise in risk assessment, vulnerab
 I’m passionate about solving complex challenges and advancing secure IT practices.
 
 ## Skills
+| Skill                                         | Associated Project                                                                 |
+|-----------------------------------------------|-----------------------------------------------------------------------------------|
+| Information Systems Security                  | <a href="https://github.com/username/repo/assignments/Fortifying_Foundations.pdf">Fortifying Foundations: 20 Key Hardening Strategies</a> |
+| Malicious Attacks, Threats, and Vulnerabilities| <a href="https://github.com/username/repo/assignments/NIDS_HIDS_Alerts.pdf">Identifying and Analyzing NIDS/HIDS Alerts</a>         |
+| Scanning and Analysis Tools                   | <a href="https://github.com/username/repo/assignments/Wireless_Attacks.pdf">Wireless Networking Attack and Mitigation Techniques</a> |
+| Cryptography in Information Security          | <a href="https://github.com/username/repo/assignments/Cryptography_Concepts.pdf">Cryptography Concepts</a>                              |
+| Networking Principles and Security Mechanisms | <a href="https://github.com/username/repo/assignments/Firewalls_Network_Security.pdf">Firewalls & Network Security</a>                       |
+| Incident Response and Disaster Recovery       | <a href="https://github.com/username/repo/assignments/Incident_Response.pdf">Incident Response Procedures</a>                       |
+| Hacking and Ethical Hacking                   | <a href="https://github.com/username/repo/assignments/Ethical_Hacking.pdf">Ethical Hacking</a>                                    |
+| Vulnerability Testing                         | <a href="https://github.com/username/repo/assignments/Security_Assessment.pdf">Security Assessment & Auditing</a>                     |
+| Computer System Forensics                     | <a href="https://github.com/username/repo/assignments/737_MAX_Analysis.pdf">Analysis of the 737 MAX Incidents</a>                  |
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Information Systems Security                  | <a href="#">Fundamental Information Security</a> |
-| Malicious Attacks, Threats, and Vulnerabilities| <a href="#">Intrusion Detection</a>  |
-| Scanning and Analysis Tools                   | <a href="#">Security Assessment & Auditing</a> |
-| Cryptography in Information Security          | <a href="#">Security Management Practices</a> |
-| Networking Principles and Security Mechanisms | <a href="#">Firewalls & Network Security</a> |
-| Incident Response and Disaster Recovery       | <a href="#">Security Management Practices</a> |
-| Hacking and Ethical Hacking                   | <a href="#">Ethical Hacking</a>       |
-| Vulnerability Testing                         | <a href="#">Computer System Forensics</a> |
 
 ## Tools
 
