@@ -51,4 +51,12 @@ I’m passionate about solving complex challenges and advancing secure IT practi
 
 
 ## Projects
-- Detection Lab
+- Fortifying Foundations
+- NIDS/HIDS Alerts
+- Wireless Attacks
+- Cryptography Concepts
+- Firewalls & Network Security
+- Incident Response Procedures
+- Ethical Hacking
+- 737 MAX Incident Analysis
+- Steganography Lab
