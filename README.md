@@ -47,8 +47,9 @@ I’m passionate about solving complex challenges and advancing secure IT practi
     <img src="https://img.shields.io/badge/-John_the_Ripper-000000?&style=for-the-badge&logo=Cryptography&logoColor=white" />
 </div>
 
-## Certifications
+## Education
 
+- Associate of Applied Science (AAS) in Cybersecurity | Honors
 
 ## Projects
 - Fortifying Foundations
