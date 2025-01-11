@@ -126,5 +126,6 @@ I’m passionate about solving complex challenges and advancing secure IT practi
 - [Identifying and Analyzing NIDS/HIDS Alerts](https://github.com/StephVergil/dentifying-and-Analyzing-NIDS-HIDS-Alerts)  
 - [Analyzing the Stuxnet Worm](https://github.com/StephVergil/Analyzing-the-Stuxnet-Worm)  
 - [Burp Suite Introduction](https://github.com/StephVergil/Burp-Suite-Intro)  
-- [Exploring Moral and Legal Issues](https://github.com/StephVergil/Exploring-Moral-and-Legal-Issues)  
+- [Exploring Moral and Legal Issues](https://github.com/StephVergil/Exploring-Moral-and-Legal-Issues)
+- [Generating, Capturing, and Analyzing DoS and DDoS-centric Network Traffic](https://github.com/StephVergil/Generating-capturing-and-Analyzing-DoS-and-DDoS-centric-Network-Traffic/blob/main/vNetLab3%20Lab%205.docx.pdf)
 
