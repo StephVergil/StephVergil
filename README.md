@@ -128,4 +128,5 @@ I’m passionate about solving complex challenges and advancing secure IT practi
 - [Burp Suite Introduction](https://github.com/StephVergil/Burp-Suite-Intro)  
 - [Exploring Moral and Legal Issues](https://github.com/StephVergil/Exploring-Moral-and-Legal-Issues)
 - [Generating, Capturing, and Analyzing DoS and DDoS-centric Network Traffic](https://github.com/StephVergil/Generating-capturing-and-Analyzing-DoS-and-DDoS-centric-Network-Traffic/blob/main/vNetLab3%20Lab%205.docx.pdf)
+- [Generating, Capturing, and Analyzing Network Scanner Traffic](https://github.com/StephVergil/Generating-Capturing-and-Analyzing-Network-Scanner-Traffic./blob/main/vNetLab%2004.docx.pdf)
 
