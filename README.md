@@ -127,4 +127,3 @@ I’m passionate about solving complex challenges and advancing secure IT practi
 - [Analyzing the Stuxnet Worm](https://github.com/StephVergil/Analyzing-the-Stuxnet-Worm)  
 - [Burp Suite Introduction](https://github.com/StephVergil/Burp-Suite-Intro)  
 - [Exploring Moral and Legal Issues](https://github.com/StephVergil/Exploring-Moral-and-Legal-Issues)
-\
