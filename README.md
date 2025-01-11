@@ -127,8 +127,6 @@ I’m passionate about solving complex challenges and advancing secure IT practi
 - [Analyzing the Stuxnet Worm](https://github.com/StephVergil/Analyzing-the-Stuxnet-Worm)  
 - [Burp Suite Introduction](https://github.com/StephVergil/Burp-Suite-Intro)  
 - [Exploring Moral and Legal Issues](https://github.com/StephVergil/Exploring-Moral-and-Legal-Issues)
-- [Examining an Open Source Honeypot](https://github.com/StephVergil/Examining-an-Open-Source-Honeypot)
-- [Using Footprinting Tools](https://github.com/StephVergil/Using-Footprinting-Tools)
 - [Generating Capturing and Analyzing DoS and DDoS Centric Network Traffic](https://github.com/StephVergil/Generating-capturing-and-Analyzing-DoS-and-DDoS-centric-Network-Traffic)
 - [Generating, Capturing, and Analyzing Network Scanner Traffic](https://github.com/StephVergil/Generating-Capturing-and-Analyzing-Network-Scanner-Traffic.)
 - [Introduction to Zeek Scripting](https://github.com/StephVergil/Introduction-to-Zeek-Scripting)
