@@ -131,4 +131,5 @@ I’m passionate about solving complex challenges and advancing secure IT practi
 - [Generating, Capturing, and Analyzing Network Scanner Traffic](https://github.com/StephVergil/Generating-Capturing-and-Analyzing-Network-Scanner-Traffic.)
 - [Introduction to Zeek Scripting](https://github.com/StephVergil/Introduction-to-Zeek-Scripting)
 - [Introduction to Zeek Signatures](https://github.com/StephVergil/Introduction-to-Zeek-Signatures)
+- [OS Hardening Lab](https://github.com/StephVergil/OS-Hardening-Lab-Results/tree/main)
   
