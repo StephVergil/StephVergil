@@ -107,13 +107,24 @@ I’m passionate about solving complex challenges and advancing secure IT practi
 
 - Associate of Applied Science (AAS) in Cybersecurity | Honors
 
-## Projects
-- Fortifying Foundations
-- NIDS/HIDS Alerts
-- Wireless Attacks
-- Cryptography Concepts
-- Firewalls & Network Security
-- Incident Response Procedures
-- Ethical Hacking
-- 737 MAX Incident Analysis
-- Steganography Lab
+### Projects
+
+- [Hardening Strategies for Diverse Operating Systems and Platforms](https://github.com/StephVergil/Hardening-Strategies-for-Diverse-Operating-Systems-and-Platforms)  
+- [Retreat Booking Programming](https://github.com/StephVergil/Retreat-Booking-Programming)  
+- [Examining an Open Source Honeypot](https://github.com/StephVergil/Examining-an-Open-Source-Honeypot)  
+- [Firewalls & Network Security](https://github.com/StephVergil/Firewalls-Network-Security)  
+- [Analyzing Linux Rootkits](https://github.com/StephVergil/Analyzing-Linux-Rootkits)  
+- [SDLC Methodologies Overview](https://github.com/StephVergil/SDLC-Methodologies-Overview)  
+- [Wireless Networking Attack and Mitigation Techniques](https://github.com/StephVergil/Wireless-Networking-Attack-and-Mitigation-Techniques)  
+- [Cryptography Concepts](https://github.com/StephVergil/Cryptography-Concepts)  
+- [Incident Response Procedures](https://github.com/StephVergil/Incident-Response-Procedures)  
+- [Using Footprinting Tools](https://github.com/StephVergil/Using-Footprinting-Tools)  
+- [Debugging Methodologies: Bottom-Up Approach](https://github.com/StephVergil/Debugging-Methodologies-Bottom-Up-Approach)  
+- [Vulnerability Testing](https://github.com/StephVergil/Vulnerability-Testing)  
+- [Hacking and Ethical Hacking](https://github.com/StephVergil/Hacking-and-Ethical-Hacking)  
+- [Computer System Forensics](https://github.com/StephVergil/Computer-System-Forensics)  
+- [Identifying and Analyzing NIDS/HIDS Alerts](https://github.com/StephVergil/dentifying-and-Analyzing-NIDS-HIDS-Alerts)  
+- [Analyzing the Stuxnet Worm](https://github.com/StephVergil/Analyzing-the-Stuxnet-Worm)  
+- [Burp Suite Introduction](https://github.com/StephVergil/Burp-Suite-Intro)  
+- [Exploring Moral and Legal Issues](https://github.com/StephVergil/Exploring-Moral-and-Legal-Issues)  
+
