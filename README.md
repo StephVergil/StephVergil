@@ -30,12 +30,16 @@ I’m passionate about solving complex challenges and advancing secure IT practi
     <a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>
     <a href="https://nmap.org/"><img src="https://img.shields.io/badge/-nmap-4682B4?&style=for-the-badge&logo=nmap&logoColor=white" /></a>
     <a href="https://www.wireshark.org/docs/man-pages/"><img src="https://img.shields.io/badge/-Packet_Analysis-000000?&style=for-the-badge&logo=Analysis&logoColor=white" /></a>
+    <a href="https://tcpdump.org/"><img src="https://img.shields.io/badge/-tcpdump-4B8BBE?&style=for-the-badge&logo=Linux&logoColor=white" /></a>
+    <a href="https://netcat.sourceforge.net/"><img src="https://img.shields.io/badge/-Netcat-333333?&style=for-the-badge&logo=Network&logoColor=white" /></a>
 </div>
 
 ### Endpoint
 <div>
     <a href="https://www.microsoft.com/en-us/security/business/threat-protection/microsoft-defender-endpoint"><img src="https://img.shields.io/badge/-Windows_Defender-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
     <a href="https://www.broadcom.com/products/cyber-security/endpoint/symantec-endpoint-protection"><img src="https://img.shields.io/badge/-Symantec_Endpoint_Protection-FFD700?&style=for-the-badge&logo=Symantec&logoColor=black" /></a>
+    <a href="https://www.crowdstrike.com/"><img src="https://img.shields.io/badge/-CrowdStrike-FF0000?&style=for-the-badge&logo=CrowdStrike&logoColor=white" /></a>
+    <a href="https://www.carbonblack.com/"><img src="https://img.shields.io/badge/-Carbon_Black-333333?&style=for-the-badge&logo=VMware&logoColor=white" /></a>
 </div>
 
 ### IDS/IPS
@@ -43,6 +47,8 @@ I’m passionate about solving complex challenges and advancing secure IT practi
     <a href="https://securityonion.net/"><img src="https://img.shields.io/badge/-Security_Onion-000000?&style=for-the-badge&logo=Security&logoColor=white" /></a>
     <a href="https://snort.org/"><img src="https://img.shields.io/badge/-Snort-000000?&style=for-the-badge&logo=Snort&logoColor=white" /></a>
     <a href="https://suricata.io/"><img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /></a>
+    <a href="https://zeek.org/"><img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /></a>
+    <a href="https://www.paloaltonetworks.com/products/secure-the-network/next-gen-ips"><img src="https://img.shields.io/badge/-Palo_Alto_NGFW-0078D7?&style=for-the-badge&logo=PaloAltoNetworks&logoColor=white" /></a>
 </div>
 
 ### Cryptography
@@ -50,6 +56,8 @@ I’m passionate about solving complex challenges and advancing secure IT practi
     <a href="https://www.openssl.org/"><img src="https://img.shields.io/badge/-OpenSSL-000000?&style=for-the-badge&logo=OpenSSL&logoColor=white" /></a>
     <a href="https://gpgtools.org/"><img src="https://img.shields.io/badge/-GPG-4E9A06?&style=for-the-badge&logo=GNU&logoColor=white" /></a>
     <a href="https://gchq.github.io/CyberChef/"><img src="https://img.shields.io/badge/-CyberChef-FF5733?&style=for-the-badge&logo=Chef&logoColor=white" /></a>
+    <a href="https://www.hashicorp.com/products/vault"><img src="https://img.shields.io/badge/-HashiCorp_Vault-0094F5?&style=for-the-badge&logo=HashiCorp&logoColor=white" /></a>
+    <a href="https://keepass.info/"><img src="https://img.shields.io/badge/-KeePass-00A2ED?&style=for-the-badge&logo=KeePass&logoColor=white" /></a>
 </div>
 
 ### IT Operations
@@ -57,6 +65,7 @@ I’m passionate about solving complex challenges and advancing secure IT practi
     <a href="https://learn.microsoft.com/en-us/windows-server/identity/active-directory-domain-services"><img src="https://img.shields.io/badge/-Active_Directory-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
     <a href="https://www.vmware.com/"><img src="https://img.shields.io/badge/-VMware-607078?&style=for-the-badge&logo=VMware&logoColor=white" /></a>
     <a href="https://www.microsoft.com/en-us/windows-server/hyper-v"><img src="https://img.shields.io/badge/-Hyper--V-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+    <a href="https://www.manageengine.com/"><img src="https://img.shields.io/badge/-ManageEngine-333333?&style=for-the-badge&logo=Zoho&logoColor=white" /></a>
 </div>
 
 ### Cloud Management
@@ -64,6 +73,8 @@ I’m passionate about solving complex challenges and advancing secure IT practi
     <a href="https://aws.amazon.com/ec2/"><img src="https://img.shields.io/badge/-AWS_EC2-F90?&style=for-the-badge&logo=AmazonAWS&logoColor=white" /></a>
     <a href="https://azure.microsoft.com/en-us/products/active-directory/"><img src="https://img.shields.io/badge/-Azure_AD-0089D6?&style=for-the-badge&logo=MicrosoftAzure&logoColor=white" /></a>
     <a href="https://azure.microsoft.com/en-us/products/virtual-machines/"><img src="https://img.shields.io/badge/-Azure_Virtual_Machines-0089D6?&style=for-the-badge&logo=MicrosoftAzure&logoColor=white" /></a>
+    <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/-Google_Cloud-4285F4?&style=for-the-badge&logo=GoogleCloud&logoColor=white" /></a>
+    <a href="https://www.digitalocean.com/"><img src="https://img.shields.io/badge/-DigitalOcean-0080FF?&style=for-the-badge&logo=DigitalOcean&logoColor=white" /></a>
 </div>
 
 ### Programming
@@ -72,7 +83,9 @@ I’m passionate about solving complex challenges and advancing secure IT practi
     <a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" /></a>
     <a href="https://www.microsoft.com/sql-server"><img src="https://img.shields.io/badge/-SQL-CC2927?&style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white" /></a>
     <a href="https://isocpp.org/"><img src="https://img.shields.io/badge/-C++-00599C?&style=for-the-badge&logo=Cplusplus&logoColor=white" /></a>
+    <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" /></a>
 </div>
+
 
 ## Education
 
