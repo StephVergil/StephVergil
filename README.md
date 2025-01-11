@@ -107,7 +107,7 @@ I’m passionate about solving complex challenges and advancing secure IT practi
 
 - Associate of Applied Science (AAS) in Cybersecurity | Honors
 
-### Projects
+## Projects
 
 - [Hardening Strategies for Diverse Operating Systems and Platforms](https://github.com/StephVergil/Hardening-Strategies-for-Diverse-Operating-Systems-and-Platforms)  
 - [Retreat Booking Programming](https://github.com/StephVergil/Retreat-Booking-Programming)  
