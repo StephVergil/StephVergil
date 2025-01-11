@@ -133,5 +133,9 @@ I’m passionate about solving complex challenges and advancing secure IT practi
 - [Introduction to Zeek Signatures](https://github.com/StephVergil/Introduction-to-Zeek-Signatures)
 - [OS Hardening Lab](https://github.com/StephVergil/OS-Hardening-Lab-Results/tree/main)
 - [Password Lab](https://github.com/StephVergil/Password_Lab/tree/main)
-  
+- [Security Lab Encryption-EFS](https://github.com/StephVergil/Security-Lab-20-Encryption-EFS)
+- [Network Scanning and Exploitation](https://github.com/StephVergil/Network-Scanning-and-Exploitation)
+- [Snowball Express Database Project](https://github.com/StephVergil/Snowball-Express-Database-Project)
+- [Azure Cloud Presentation](https://github.com/StephVergil/Azure-Cloud_Presentation)
+- [Risk Management in Information Security](https://github.com/StephVergil/Risk-Management-in-Information-Security_Presentation)
   
