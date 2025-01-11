@@ -132,4 +132,6 @@ I’m passionate about solving complex challenges and advancing secure IT practi
 - [Introduction to Zeek Scripting](https://github.com/StephVergil/Introduction-to-Zeek-Scripting)
 - [Introduction to Zeek Signatures](https://github.com/StephVergil/Introduction-to-Zeek-Signatures)
 - [OS Hardening Lab](https://github.com/StephVergil/OS-Hardening-Lab-Results/tree/main)
+- [Password Lab](https://github.com/StephVergil/Password_Lab/tree/main)
+  
   
