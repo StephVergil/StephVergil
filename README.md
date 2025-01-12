@@ -144,7 +144,7 @@ I am passionate about solving complex challenges, exploring innovative cybersecu
 
 ## Contact  
 
-- **LinkedIn**: [StephVergil](https://linkedin.com/in/stephanie-vergil-8982142a8)  
+
 - **Email**: [Stephanie Vergil](mailto:Stephanievergil95@gmail.com)  
 
-> "The best way to predict the future is to create it."  
+> "It's the job that's never started as takes longest to finish." – J.R.R. Tolkien, *The Lord of the Rings*  
