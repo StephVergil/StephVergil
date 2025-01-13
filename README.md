@@ -2,7 +2,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" style="width: 50px; height: 50px;">
 </a>
 
-# Hi, I'm Stephanie Vergil 
+
+
+# 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 | 𝒮𝓉𝑒𝓅𝒽𝒶𝓃𝒾𝑒
 
 As an adaptable cybersecurity professional, I specialize in risk assessment, vulnerability management, and IT operations. With a strong background in Active Directory, cloud platforms (AWS, Azure), and programming (Python, PowerShell, and C++), I’ve consistently delivered solutions to reduce organizational risks, enhance security measures, and improve business continuity. Bilingual in English and Spanish, I bring diverse perspectives to secure modern IT systems.
 
