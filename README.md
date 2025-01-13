@@ -142,11 +142,15 @@ I am passionate about solving complex challenges, exploring innovative cybersecu
 
 ---
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=StephVergil&theme=radical)
-
 ## Contact  
 
 
 - **Email**: [Stephanie Vergil](mailto:Stephanievergil95@gmail.com)  
 
-> "It's the job that's never started as takes longest to finish." – J.R.R. Tolkien, *The Lord of the Rings*  
+> "It's the job that's never started as takes longest to finish." – J.R.R. Tolkien, *The Lord of the Rings*
+
+---
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=StephVergil&theme=radical)
+
+---
