@@ -136,8 +136,6 @@ To leverage my skills in cybersecurity to design secure IT environments, tackle 
 
 ## Projects  
 
-### Notable Work  
-
 - **[Hardening Strategies for Diverse Operating Systems and Platforms](https://github.com/StephVergil/Hardening-Strategies-for-Diverse-Operating-Systems-and-Platforms)**  
   Comprehensive techniques to improve security posture across various operating systems.  
 
@@ -153,18 +151,22 @@ To leverage my skills in cybersecurity to design secure IT environments, tackle 
 - **[Generating and Analyzing DDoS Network Traffic](https://github.com/StephVergil/Generating-capturing-and-Analyzing-DoS-and-DDoS-centric-Network-Traffic)**  
   Real-world simulations of denial-of-service attacks with detailed traffic analysis.
 
-  - **[Analyzing Linux Rootkits](https://github.com/StephVergil/Analyzing-Linux-Rootkits/blob/main/README.md)**  
-  In-depth analysis and exploration of Linux rootkits, their mechanisms, and detection strategies to enhance system security.  
+ - **[Analyzing Linux Rootkits](https://github.com/StephVergil/Analyzing-Linux-Rootkits/blob/main/README.md)**  
+  In-depth analysis and exploration of Linux rootkits, their mechanisms, and detection strategies to enhance system security.
+
+- **[Computer System Forensics](https://github.com/StephVergil/Computer-System-Forensics)**  
+  Detailed forensic analysis and methodologies for investigating computer systems.  
+
+- **[Password Lab](https://github.com/StephVergil/Password_Lab)**  
+  A hands-on exploration of password security, including evaluation and best practices. 
 
 ### Other Projects  
+For a comprehensive list of my projects and to explore more, visit my [GitHub repository](https://github.com/StephVergil?tab=repositories)
 
-- [Firewalls & Network Security](https://github.com/StephVergil/Firewalls-Network-Security)  
-- [OS Hardening Lab](https://github.com/StephVergil/OS-Hardening-Lab-Results/tree/main)  
 
 ---
 
 ## Contact  
-
 
 - **Email**: [Stephanie Vergil](mailto:Stephanievergil95@gmail.com)  
 
