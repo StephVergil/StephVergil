@@ -1,5 +1,8 @@
-# Hi, I'm Stephanie Vergil  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stephanie-vergil-8982142a8)
+<a href="https://linkedin.com/in/stephanie-vergil-8982142a8">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" style="width: 50px; height: 50px;">
+</a>
+
+# Hi, I'm Stephanie Vergil 
 
 As an adaptable cybersecurity professional, I specialize in risk assessment, vulnerability management, and IT operations. With a strong background in Active Directory, cloud platforms (AWS, Azure), and programming (Python, PowerShell, and C++), I’ve consistently delivered solutions to reduce organizational risks, enhance security measures, and improve business continuity. Bilingual in English and Spanish, I bring diverse perspectives to secure modern IT systems.
 
