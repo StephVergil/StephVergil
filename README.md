@@ -151,10 +151,12 @@ To leverage my skills in cybersecurity to design secure IT environments, tackle 
   Practical insights into wireless vulnerabilities and effective countermeasures.  
 
 - **[Generating and Analyzing DDoS Network Traffic](https://github.com/StephVergil/Generating-capturing-and-Analyzing-DoS-and-DDoS-centric-Network-Traffic)**  
-  Real-world simulations of denial-of-service attacks with detailed traffic analysis.  
+  Real-world simulations of denial-of-service attacks with detailed traffic analysis.
+
+  - **[Analyzing Linux Rootkits](https://github.com/StephVergil/Analyzing-Linux-Rootkits/blob/main/README.md)**  
+  In-depth analysis and exploration of Linux rootkits, their mechanisms, and detection strategies to enhance system security.  
 
 ### Other Projects  
-
 
 - [Firewalls & Network Security](https://github.com/StephVergil/Firewalls-Network-Security)  
 - [OS Hardening Lab](https://github.com/StephVergil/OS-Hardening-Lab-Results/tree/main)  
