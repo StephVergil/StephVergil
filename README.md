@@ -3,11 +3,20 @@
 </a>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=StephVergil&color=ff79c6)
-
 ###  
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Patrick+Hand&size=35&duration=5000&color=FF80BF&center=true&vCenter=true&lines=Cybersecurity+Analyst;Information+Security+Specialist;Network+Defense+Strategist;Intrusion+Detection+Expert;Operating+System+Security+Practitioner;Cloud+Computing+Professional;Ethical+Hacking+Specialist;Digital+Forensics+Investigator;Firewall+and+Network+Security+Specialist;Security+Assessment+and+Auditing+Advisor)
+<h1 align="center" style="font-family: 'Allura', cursive; font-size: 60px; text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);">
+  𝒲𝑒𝓁𝒸𝑜𝓂𝑒
+</h1>
 
-# 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 | 𝒮𝓉𝑒𝓅𝒽𝒶𝓃𝒾𝑒
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand&size=35&duration=5000&pause=1000&color=FF80BF&center=true&vCenter=true&width=900&lines=Welcome+to+My+Profile;Cybersecurity+Analyst;Information+Security+Specialist;Network+Defense+Strategist;Intrusion+Detection+Expert;Operating+System+Security+Practitioner;Cloud+Computing+Professional;Ethical+Hacking+Specialist;Digital+Forensics+Investigator;Firewall+and+Network+Security+Specialist;Security+Assessment+and+Auditing+Advisor" alt="Typing SVG">
+</p>
+
+<p align="center" style="font-family: 'Great Vibes', cursive; font-size: 60px; color: #FF80BF; font-weight: bold; text-shadow: 4px 4px 8px rgba(255, 128, 191, 0.6), 0 0 10px rgba(255, 128, 191, 0.8); margin-top: 40px;">
+  <strong>— 𝒮𝓉𝑒𝓅𝒽𝒶𝓃𝒾𝑒 𝒱𝑒𝓇𝑔𝒾𝓁</strong>
+</p>
+
+
 
 As an adaptable cybersecurity professional, I specialize in risk assessment, vulnerability management, and IT operations. With a strong background in Active Directory, cloud platforms (AWS, Azure), and programming (Python, PowerShell, and C++), I’ve consistently delivered solutions to reduce organizational risks, enhance security measures, and improve business continuity. Bilingual in English and Spanish, I bring diverse perspectives to secure modern IT systems.
 
