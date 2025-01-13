@@ -141,8 +141,11 @@ To leverage my skills in cybersecurity to design secure IT environments, tackle 
 - **[Hardening Strategies for Diverse Operating Systems and Platforms](https://github.com/StephVergil/Hardening-Strategies-for-Diverse-Operating-Systems-and-Platforms)**  
   Comprehensive techniques to improve security posture across various operating systems.  
 
-- **[Examining an Open Source Honeypot](https://github.com/StephVergil/Examining-an-Open-Source-Honeypot)**  
-  An in-depth analysis of honeypot deployment and its role in threat detection.  
+- **[Password Strength Checker with Python](https://github.com/StephVergil/Hacking-and-Ethical-Hacking)**  
+  Development and enhancement of a Python-based tool to evaluate password strength, calculate entropy, and provide actionable feedback for single or bulk password analysis.  
+
+- **[Incident Response Procedures](https://github.com/StephVergil/Incident-Response-Procedures)**  
+  Comprehensive workflows for identifying, mitigating, and documenting incidents on compromised systems.  
 
 - **[Wireless Networking Attack and Mitigation Techniques](https://github.com/StephVergil/Wireless-Networking-Attack-and-Mitigation-Techniques)**  
   Practical insights into wireless vulnerabilities and effective countermeasures.  
@@ -152,8 +155,7 @@ To leverage my skills in cybersecurity to design secure IT environments, tackle 
 
 ### Other Projects  
 
-- [Incident Response Procedures](https://github.com/StephVergil/Incident-Response-Procedures)  
-- [Hacking and Ethical Hacking](https://github.com/StephVergil/Hacking-and-Ethical-Hacking)  
+
 - [Firewalls & Network Security](https://github.com/StephVergil/Firewalls-Network-Security)  
 - [OS Hardening Lab](https://github.com/StephVergil/OS-Hardening-Lab-Results/tree/main)  
 
