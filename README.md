@@ -34,82 +34,82 @@ I am passionate about solving complex challenges, exploring innovative cybersecu
 
 ---
 
-## Tools  
+## Professional Security and Development Toolkit  
 
-### Network Tools  
+### Network Monitoring and Analysis  
 <div>
-<a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" /></a>  
-<a href="https://nmap.org/"><img src="https://img.shields.io/badge/-nmap-4682B4?&style=for-the-badge&logo=nmap&logoColor=white" /></a>  
-<a href="https://www.wireshark.org/docs/man-pages/"><img src="https://img.shields.io/badge/-Packet_Analysis-000000?&style=for-the-badge&logo=Analysis&logoColor=white" /></a>  
-<a href="https://tcpdump.org/"><img src="https://img.shields.io/badge/-tcpdump-4B8BBE?&style=for-the-badge&logo=Linux&logoColor=white" /></a>  
-<a href="https://netcat.sourceforge.net/"><img src="https://img.shields.io/badge/-Netcat-333333?&style=for-the-badge&logo=Network&logoColor=white" /></a>
-<a href="https://www.zabbix.com/"><img src="https://img.shields.io/badge/-Zabbix-FF4C00?&style=for-the-badge&logo=Zabbix&logoColor=white" /></a>
-<a href="https://nagios.org/"><img src="https://img.shields.io/badge/-Nagios-5C5C5C?&style=for-the-badge&logo=Nagios&logoColor=white" /></a>
+<a href="https://www.wireshark.org/"><img src="https://img.shields.io/badge/-Wireshark-000000?&style=for-the-badge&logo=Wireshark&logoColor=deeppink" /></a>  
+<a href="https://nmap.org/"><img src="https://img.shields.io/badge/-Nmap-000000?&style=for-the-badge&logo=Nmap&logoColor=deeppink" /></a>  
+<a href="https://www.wireshark.org/docs/man-pages/"><img src="https://img.shields.io/badge/-Packet_Analysis-000000?&style=for-the-badge&logo=Linux&logoColor=deeppink" /></a>  
+<a href="https://tcpdump.org/"><img src="https://img.shields.io/badge/-TCPdump-000000?&style=for-the-badge&logo=Linux&logoColor=deeppink" /></a>  
+<a href="https://netcat.sourceforge.net/"><img src="https://img.shields.io/badge/-Netcat-000000?&style=for-the-badge&logo=Linux&logoColor=deeppink" /></a>
+<a href="https://www.zabbix.com/"><img src="https://img.shields.io/badge/-Zabbix-000000?&style=for-the-badge&logo=Zabbix&logoColor=deeppink" /></a>
+<a href="https://nagios.org/"><img src="https://img.shields.io/badge/-Nagios-000000?&style=for-the-badge&logo=Nagios&logoColor=deeppink" /></a>
 </div>
 
-### Endpoint Security  
+### Endpoint Security Solutions  
 <div>
-<a href="https://www.microsoft.com/en-us/security/business/threat-protection/microsoft-defender-endpoint"><img src="https://img.shields.io/badge/-Windows_Defender-0078D7?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>  
-<a href="https://www.broadcom.com/products/cyber-security/endpoint/symantec-endpoint-protection"><img src="https://img.shields.io/badge/-Symantec_Endpoint_Protection-FFD700?&style=for-the-badge&logo=Symantec&logoColor=black" /></a>  
-<a href="https://www.crowdstrike.com/"><img src="https://img.shields.io/badge/-CrowdStrike-FF0000?&style=for-the-badge&logo=CrowdStrike&logoColor=white" /></a>  
-<a href="https://www.carbonblack.com/"><img src="https://img.shields.io/badge/-Carbon_Black-333333?&style=for-the-badge&logo=VMware&logoColor=white" /></a>
-<a href="https://www.trendmicro.com/"><img src="https://img.shields.io/badge/-TrendMicro-D71A28?&style=for-the-badge&logo=TrendMicro&logoColor=white" /></a>
+<a href="https://www.microsoft.com/en-us/security/business/threat-protection/microsoft-defender-endpoint"><img src="https://img.shields.io/badge/-Windows_Defender-000000?&style=for-the-badge&logo=Microsoft&logoColor=deeppink" /></a>  
+<a href="https://www.broadcom.com/products/cyber-security/endpoint/symantec-endpoint-protection"><img src="https://img.shields.io/badge/-Symantec_Endpoint_Protection-000000?&style=for-the-badge&logo=Symantec&logoColor=deeppink" /></a>  
+<a href="https://www.crowdstrike.com/"><img src="https://img.shields.io/badge/-CrowdStrike-000000?&style=for-the-badge&logo=CrowdStrike&logoColor=deeppink" /></a>  
+<a href="https://www.carbonblack.com/"><img src="https://img.shields.io/badge/-Carbon_Black-000000?&style=for-the-badge&logo=CarbonBlack&logoColor=deeppink" /></a>
+<a href="https://www.trendmicro.com/"><img src="https://img.shields.io/badge/-TrendMicro-000000?&style=for-the-badge&logo=TrendMicro&logoColor=deeppink" /></a>
 </div>
 
-### Vulnerability Assessment  
+### Vulnerability Management Tools  
 <div>
-<a href="https://www.tenable.com/products/nessus"><img src="https://img.shields.io/badge/-Nessus-00A4BD?&style=for-the-badge&logo=Tenable&logoColor=white" /></a>  
-<a href="https://www.qualys.com/"><img src="https://img.shields.io/badge/-Qualys-EB0028?&style=for-the-badge&logo=Qualys&logoColor=white" /></a>  
-<a href="https://www.openvas.org/"><img src="https://img.shields.io/badge/-OpenVAS-4CAF50?&style=for-the-badge&logo=Security&logoColor=white" /></a>  
-<a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/-Burp_Suite-F8941D?&style=for-the-badge&logo=PortSwigger&logoColor=white" /></a>  
-<a href="https://www.kali.org/tools/sqlmap/"><img src="https://img.shields.io/badge/-SQLmap-CC2927?&style=for-the-badge&logo=MicrosoftSQLServer&logoColor=white" /></a>
-<a href="https://www.rapid7.com/"><img src="https://img.shields.io/badge/-Rapid7-000000?&style=for-the-badge&logo=Rapid7&logoColor=white" /></a>
+<a href="https://www.tenable.com/products/nessus"><img src="https://img.shields.io/badge/-Nessus-000000?&style=for-the-badge&logo=Nessus&logoColor=deeppink" /></a>  
+<a href="https://www.qualys.com/"><img src="https://img.shields.io/badge/-Qualys-000000?&style=for-the-badge&logo=Qualys&logoColor=deeppink" /></a>  
+<a href="https://www.openvas.org/"><img src="https://img.shields.io/badge/-OpenVAS-000000?&style=for-the-badge&logo=Security&logoColor=deeppink" /></a>  
+<a href="https://portswigger.net/burp"><img src="https://img.shields.io/badge/-Burp_Suite-000000?&style=for-the-badge&logo=BurpSuite&logoColor=deeppink" /></a>  
+<a href="https://www.kali.org/tools/sqlmap/"><img src="https://img.shields.io/badge/-SQLMap-000000?&style=for-the-badge&logo=SQL&logoColor=deeppink" /></a>
+<a href="https://www.rapid7.com/"><img src="https://img.shields.io/badge/-Rapid7-000000?&style=for-the-badge&logo=Rapid7&logoColor=deeppink" /></a>
 </div>
 
-### Operating System Security  
+### Operating System Security Platforms  
 <div>
-<a href="https://www.microsoft.com/en-us/windows-server"><img src="https://img.shields.io/badge/-Windows_Server-0078D7?&style=for-the-badge&logo=Windows&logoColor=white" /></a>
-<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/-Ubuntu-333333?&style=for-the-badge&logo=Ubuntu&logoColor=white" /></a>
-<a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux"><img src="https://img.shields.io/badge/-Red_Hat-EE0000?&style=for-the-badge&logo=RedHat&logoColor=white" /></a>
-<a href="https://www.kali.org/"><img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=KaliLinux&logoColor=white" /></a>
-<a href="https://centos.org/"><img src="https://img.shields.io/badge/-CentOS-262577?&style=for-the-badge&logo=CentOS&logoColor=white" /></a>
+<a href="https://www.microsoft.com/en-us/windows-server"><img src="https://img.shields.io/badge/-Windows_Server-000000?&style=for-the-badge&logo=Windows&logoColor=deeppink" /></a>
+<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/-Ubuntu-000000?&style=for-the-badge&logo=Ubuntu&logoColor=deeppink" /></a>
+<a href="https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux"><img src="https://img.shields.io/badge/-Red_Hat-000000?&style=for-the-badge&logo=RedHat&logoColor=deeppink" /></a>
+<a href="https://www.kali.org/"><img src="https://img.shields.io/badge/-Kali_Linux-000000?&style=for-the-badge&logo=KaliLinux&logoColor=deeppink" /></a>
+<a href="https://centos.org/"><img src="https://img.shields.io/badge/-CentOS-000000?&style=for-the-badge&logo=CentOS&logoColor=deeppink" /></a>
 </div>
 
-### Intrusion Detection and Prevention Systems (IDS/IPS)  
+### Intrusion Detection and Prevention Systems  
 <div>
-<a href="https://securityonion.net/"><img src="https://img.shields.io/badge/-Security_Onion-000000?&style=for-the-badge&logo=Security&logoColor=white" /></a>  
-<a href="https://snort.org/"><img src="https://img.shields.io/badge/-Snort-000000?&style=for-the-badge&logo=Snort&logoColor=white" /></a>  
-<a href="https://suricata.io/"><img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" /></a>  
-<a href="https://zeek.org/"><img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /></a>  
-<a href="https://www.wazuh.com/"><img src="https://img.shields.io/badge/-Wazuh-333333?&style=for-the-badge&logo=Security&logoColor=white" /></a>
-<a href="https://ossec.github.io/"><img src="https://img.shields.io/badge/-OSSEC-4CAF50?&style=for-the-badge&logo=OSSEC&logoColor=white" /></a>
+<a href="https://securityonion.net/"><img src="https://img.shields.io/badge/-Security_Onion-000000?&style=for-the-badge&logo=Security&logoColor=deeppink" /></a>  
+<a href="https://snort.org/"><img src="https://img.shields.io/badge/-Snort-000000?&style=for-the-badge&logo=Snort&logoColor=deeppink" /></a>  
+<a href="https://suricata.io/"><img src="https://img.shields.io/badge/-Suricata-000000?&style=for-the-badge&logo=Suricata&logoColor=deeppink" /></a>  
+<a href="https://zeek.org/"><img src="https://img.shields.io/badge/-Zeek-000000?&style=for-the-badge&logo=Zeek&logoColor=deeppink" /></a>  
+<a href="https://www.wazuh.com/"><img src="https://img.shields.io/badge/-Wazuh-000000?&style=for-the-badge&logo=Wazuh&logoColor=deeppink" /></a>
+<a href="https://ossec.github.io/"><img src="https://img.shields.io/badge/-OSSEC-000000?&style=for-the-badge&logo=OSSEC&logoColor=deeppink" /></a>
 </div>
 
-### Programming Tools  
+### Development and Programming Tools  
 <div>
-<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-Visual_Studio_Code-007ACC?&style=for-the-badge&logo=VisualStudioCode&logoColor=white" /></a>
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" /></a>
-<a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/-Bash-333333?&style=for-the-badge&logo=GNU&logoColor=white" /></a>
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" /></a>
-<a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/-PyCharm-0F6D9E?&style=for-the-badge&logo=PyCharm&logoColor=white" /></a>
-<a href="https://cplusplus.com/"><img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=Cplusplus&logoColor=white" /></a>
-<a href="https://developer.apple.com/xcode/"><img src="https://img.shields.io/badge/-Xcode-1575F9?style=for-the-badge&logo=Xcode&logoColor=white" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/-Visual_Studio_Code-000000?&style=for-the-badge&logo=VisualStudioCode&logoColor=deeppink" /></a>
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/-Python-000000?&style=for-the-badge&logo=Python&logoColor=deeppink" /></a>
+<a href="https://www.gnu.org/software/bash/"><img src="https://img.shields.io/badge/-Bash-000000?&style=for-the-badge&logo=GNU&logoColor=deeppink" /></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/-Git-000000?&style=for-the-badge&logo=Git&logoColor=deeppink" /></a>
+<a href="https://www.jetbrains.com/pycharm/"><img src="https://img.shields.io/badge/-PyCharm-000000?&style=for-the-badge&logo=PyCharm&logoColor=deeppink" /></a>
+<a href="https://cplusplus.com/"><img src="https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=Cplusplus&logoColor=deeppink" /></a>
+<a href="https://developer.apple.com/xcode/"><img src="https://img.shields.io/badge/-Xcode-000000?style=for-the-badge&logo=Xcode&logoColor=deeppink" /></a>
 </div>
 
-### Cloud Computing Tools  
+### Cloud Computing Platforms  
 <div>
-<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=AmazonAWS&logoColor=white" /></a>
-<a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/-Azure-0078D7?&style=for-the-badge&logo=MicrosoftAzure&logoColor=white" /></a>
-<a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/-Google_Cloud-4285F4?&style=for-the-badge&logo=GoogleCloud&logoColor=white" /></a>
+<a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/-AWS-000000?&style=for-the-badge&logo=AmazonAWS&logoColor=deeppink" /></a>
+<a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/-Azure-000000?&style=for-the-badge&logo=MicrosoftAzure&logoColor=deeppink" /></a>
+<a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/-Google_Cloud-000000?&style=for-the-badge&logo=GoogleCloud&logoColor=deeppink" /></a>
 </div>
 
-### Steganography  
+### Steganography and Data Concealment  
 <div>
-<a href="https://www.openstego.com/"><img src="https://img.shields.io/badge/-OpenStego-333333?&style=for-the-badge&logo=Steganography&logoColor=white" /></a>  
-<a href="https://github.com/abeluck/stegdetect"><img src="https://img.shields.io/badge/-StegDetect-4E9A06?&style=for-the-badge&logo=Linux&logoColor=white" /></a>  
-<a href="https://cryptii.com/"><img src="https://img.shields.io/badge/-Cryptii-FF5733?&style=for-the-badge&logo=Tools&logoColor=white" /></a>  
-<a href="https://stegosuite.org/"><img src="https://img.shields.io/badge/-StegoSuite-008000?&style=for-the-badge&logo=Linux&logoColor=white" /></a>
-<a href="https://github.com/JohnHammond/Steganography"><img src="https://img.shields.io/badge/-Stego_Toolbox-800080?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
+<a href="https://www.openstego.com/"><img src="https://img.shields.io/badge/-OpenStego-000000?&style=for-the-badge&logo=Steganography&logoColor=deeppink" /></a>  
+<a href="https://github.com/abeluck/stegdetect"><img src="https://img.shields.io/badge/-StegDetect-000000?&style=for-the-badge&logo=Linux&logoColor=deeppink" /></a>  
+<a href="https://cryptii.com/"><img src="https://img.shields.io/badge/-Cryptii-000000?&style=for-the-badge&logo=Tools&logoColor=deeppink" /></a>  
+<a href="https://stegosuite.org/"><img src="https://img.shields.io/badge/-StegoSuite-000000?&style=for-the-badge&logo=Linux&logoColor=deeppink" /></a>
+<a href="https://github.com/JohnHammond/Steganography"><img src="https://img.shields.io/badge/-Stego_Toolbox-000000?&style=for-the-badge&logo=GitHub&logoColor=deeppink" /></a>
 </div>
 
 ---
