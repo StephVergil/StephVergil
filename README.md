@@ -2,6 +2,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" style="width: 50px; height: 50px;">
 </a>
 
+![Profile Views](https://komarev.com/ghpvc/?username=StephVergil&color=ff79c6)
 
 
 # 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 | 𝒮𝓉𝑒𝓅𝒽𝒶𝓃𝒾𝑒
