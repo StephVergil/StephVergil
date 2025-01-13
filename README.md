@@ -4,6 +4,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=StephVergil&color=ff79c6)
 
+###  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway+Dots&size=25&duration=4000&color=D16EE8&lines=Cybersecurity+Analyst;Information+Security+Specialist;Network+Defense+Strategist;Intrusion+Detection+Expert;Operating+System+Security+Practitioner;Cloud+Computing+Professional;Ethical+Hacking+Specialist;Digital+Forensics+Investigator;Firewall+and+Network+Security+Specialist;Security+Assessment+and+Auditing+Advisor)
+
 
 # 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 | 𝒮𝓉𝑒𝓅𝒽𝒶𝓃𝒾𝑒
 
