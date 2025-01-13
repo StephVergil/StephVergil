@@ -136,8 +136,12 @@ To leverage my skills in cybersecurity to design secure IT environments, tackle 
 
 ## Projects  
 
+
+- **[Risk Management in Information Security](https://github.com/StephVergil/Risk-Management-in-Information-Security_Presentation/blob/main/README.md)**  
+  A comprehensive guide to managing risks in information security, including methodologies, standards, and strategies.
+  
 - **[Hardening Strategies for Diverse Operating Systems and Platforms](https://github.com/StephVergil/Hardening-Strategies-for-Diverse-Operating-Systems-and-Platforms)**  
-  Comprehensive techniques to improve security posture across various operating systems.  
+  Comprehensive techniques to improve security posture across various operating systems.
 
 - **[Password Strength Checker with Python](https://github.com/StephVergil/Hacking-and-Ethical-Hacking)**  
   Development and enhancement of a Python-based tool to evaluate password strength, calculate entropy, and provide actionable feedback for single or bulk password analysis.  
