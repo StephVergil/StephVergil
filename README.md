@@ -12,7 +12,7 @@ As an adaptable cybersecurity professional, I specialize in risk assessment, vul
 
 ## Objective  
 
-I am passionate about solving complex challenges, exploring innovative cybersecurity practices, and creating secure IT environments.
+To leverage my skills in cybersecurity to design secure IT environments, tackle emerging threats, and innovate for the future of digital safety.
 
 ---
 
