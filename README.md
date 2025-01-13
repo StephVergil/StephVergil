@@ -154,6 +154,7 @@ I am passionate about solving complex challenges, exploring innovative cybersecu
 
 ---
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=StephVergil&theme=radical)
+![Stephanie's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StephVergil&bg_color=0f0f0f&color=ff79c6&line=bd93f9&point=ff5555&area=true&area_color=ff79c6&hide_border=true)
+
 
 ---
