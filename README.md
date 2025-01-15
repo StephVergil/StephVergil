@@ -2,9 +2,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" style="width: 50px; height: 50px;">
 </a>
 <a <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=StephVergil&style=flat&color=ff79c6">
-  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=StephVergil&style=flat&color=333333">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=StephVergil&style=flat&color=333333">
+  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=StephVergil&style=flat&color=fuchsia">
+  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=StephVergil&style=flat&color=ff007f">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=StephVergil&style=flat&color=ff007f">
 </picture>
 
 
