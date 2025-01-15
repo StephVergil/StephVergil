@@ -3,9 +3,10 @@
 </a>
 <a <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=StephVergil&style=flat&color=ff79c6">
-  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=StephVergil&style=flat&color=ff69b4">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=StephVergil&style=flat&color=ff69b4">
+  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=StephVergil&style=flat&color=333333">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=StephVergil&style=flat&color=333333">
 </picture>
+
 
 ###  
 <h1 align="center" style="font-family: 'Allura', cursive; font-size: 60px; text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);">
