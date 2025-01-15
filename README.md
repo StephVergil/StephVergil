@@ -2,10 +2,11 @@
   <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" alt="LinkedIn" style="width: 50px; height: 50px;">
 </a>
 <a <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=StephVergil&style=flat&color=ff69b4">
-  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=StephVergil&style=flat&color=ffa07a">
-  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=StephVergil&style=flat&color=ffa07a">
+  <source media="(prefers-color-scheme: dark)" srcset="https://komarev.com/ghpvc/?username=StephVergil&style=flat-square&color=ff69b4">
+  <source media="(prefers-color-scheme: light)" srcset="https://komarev.com/ghpvc/?username=StephVergil&style=flat-square&color=e75480">
+  <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=StephVergil&style=flat-square&color=e75480">
 </picture>
+
 
 ###  
 <h1 align="center" style="font-family: 'Allura', cursive; font-size: 60px; text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);">
