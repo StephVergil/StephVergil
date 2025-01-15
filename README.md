@@ -178,9 +178,17 @@ For a comprehensive list of my projects and to explore more, visit my [GitHub re
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=StephVergil&layout=compact&theme=light)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=StephVergil&layout=compact&theme=dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=StephVergil&layout=compact&theme=light&hide_border=true">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StephVergil&layout=compact&theme=light&hide_border=true">
+</picture>
 
-![Stephanie's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=StephVergil&bg_color=ffffff&color=333333&line=ff69b4&point=ff69b4&area=true&area_color=ffa07a&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=StephVergil&bg_color=000000&color=ffffff&line=ff69b4&point=ff69b4&area=true&area_color=ff69b4&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=StephVergil&bg_color=ffffff&color=333333&line=ff69b4&point=ff69b4&area=true&area_color=ffa07a&hide_border=true">
+  <img alt="Stephanie's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=StephVergil&bg_color=ffffff&color=333333&line=ff69b4&point=ff69b4&area=true&area_color=ffa07a&hide_border=true">
+</picture>
 
 
 ---
