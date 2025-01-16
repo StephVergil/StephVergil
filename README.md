@@ -135,7 +135,11 @@ To leverage my skills in cybersecurity to design secure IT environments, tackle 
 
 ## Education  
 
-- **Associate of Applied Science (AAS) in Cybersecurity** | Honors Graduate  
+- **Bachelor of Science (BS) in Cybersecurity and Information Assurance** (Ongoing)  
+  *Western Governors University*    
+
+- **Associate of Applied Science (AAS) in Cybersecurity**  
+  *Honors Graduate*  
 
 ---
 
