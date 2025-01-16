@@ -140,6 +140,7 @@ To leverage my skills in cybersecurity to design secure IT environments, tackle 
 
 - **Associate of Applied Science (AAS) in Cybersecurity**  
   *Tarrant County College*
+
   *Honors Graduate*  
 
 ---
