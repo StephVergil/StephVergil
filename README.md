@@ -139,9 +139,7 @@ To leverage my skills in cybersecurity to design secure IT environments, tackle 
   *Western Governors University*    
 
 - **Associate of Applied Science (AAS) in Cybersecurity**  
-  *Tarrant County College*
-
-  *Honors Graduate*  
+  *Tarrant County College* | Honors Graduate
 
 ---
 
