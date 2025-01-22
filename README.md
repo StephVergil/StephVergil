@@ -148,7 +148,7 @@ To leverage my skills in cybersecurity to design secure IT environments, tackle 
 - **[Understanding Quantum Cryptography: A Practical Guide to Future-Proof Security](https://github.com/StephVergil/nderstanding-Quantum-Cryptography-A-Practical-Guide-to-Future-Proof-Security-)**  
   An in-depth exploration of quantum cryptographic principles and their role in securing future digital communications.
 
-  - **[Quantum Cryptography: A Deep Dive into Security, Science, and Philosophy](https://github.com/StephVergil/Quantum-Cryptography-A-Deep-Dive-into-Security-Science-and-Philosophy)**  
+ - **[Quantum Cryptography: A Deep Dive into Security, Science, and Philosophy](https://github.com/StephVergil/Quantum-Cryptography-A-Deep-Dive-into-Security-Science-and-Philosophy)**  
   A thorough exploration of quantum cryptography, covering its security foundations, scientific principles, and philosophical implications.
 
 - **[Risk Management in Information Security](https://github.com/StephVergil/Risk-Management-in-Information-Security_Presentation/blob/main/README.md)**  
