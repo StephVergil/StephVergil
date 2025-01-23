@@ -52,6 +52,58 @@ To leverage my skills in cybersecurity to design secure IT environments, tackle 
 - **Vulnerability Assessment**: Nessus, OpenVAS, Burp Suite  
 
 ---
+
+## Education  
+
+- **Bachelor of Science (BS) in Cybersecurity and Information Assurance** (Ongoing)  
+  *Western Governors University*    
+
+- **Associate of Applied Science (AAS) in Cybersecurity**  
+  *Tarrant County College* | Honors Graduate
+
+---
+
+## Projects  
+
+- **[Understanding Quantum Cryptography: A Practical Guide to Future-Proof Security](https://github.com/StephVergil/nderstanding-Quantum-Cryptography-A-Practical-Guide-to-Future-Proof-Security-)**  
+  An in-depth exploration of quantum cryptographic principles and their role in securing future digital communications.
+
+ - **[Quantum Cryptography: A Deep Dive into Security, Science, and Philosophy](https://github.com/StephVergil/Quantum-Cryptography-A-Deep-Dive-into-Security-Science-and-Philosophy)**  
+  A thorough exploration of quantum cryptography, covering its security foundations, scientific principles, and philosophical implications.
+
+- **[Risk Management in Information Security](https://github.com/StephVergil/Risk-Management-in-Information-Security_Presentation/blob/main/README.md)**  
+  A comprehensive guide to managing risks in information security, including methodologies, standards, and strategies.
+  
+- **[Hardening Strategies for Diverse Operating Systems and Platforms](https://github.com/StephVergil/Hardening-Strategies-for-Diverse-Operating-Systems-and-Platforms)**  
+  Comprehensive techniques to improve security posture across various operating systems.
+
+- **[Password Strength Checker with Python](https://github.com/StephVergil/Hacking-and-Ethical-Hacking)**  
+  Development and enhancement of a Python-based tool to evaluate password strength, calculate entropy, and provide actionable feedback for single or bulk password analysis.  
+
+- **[Incident Response Procedures](https://github.com/StephVergil/Incident-Response-Procedures)**  
+  Comprehensive workflows for identifying, mitigating, and documenting incidents on compromised systems.  
+
+- **[Wireless Networking Attack and Mitigation Techniques](https://github.com/StephVergil/Wireless-Networking-Attack-and-Mitigation-Techniques)**  
+  Practical insights into wireless vulnerabilities and effective countermeasures.  
+
+- **[Generating and Analyzing DDoS Network Traffic](https://github.com/StephVergil/Generating-capturing-and-Analyzing-DoS-and-DDoS-centric-Network-Traffic)**  
+  Real-world simulations of denial-of-service attacks with detailed traffic analysis.
+
+ - **[Analyzing Linux Rootkits](https://github.com/StephVergil/Analyzing-Linux-Rootkits/blob/main/README.md)**  
+  In-depth analysis and exploration of Linux rootkits, their mechanisms, and detection strategies to enhance system security.
+
+- **[Computer System Forensics](https://github.com/StephVergil/Computer-System-Forensics)**  
+  Detailed forensic analysis and methodologies for investigating computer systems.  
+
+- **[Password Lab](https://github.com/StephVergil/Password_Lab)**  
+  A hands-on exploration of password security, including evaluation and best practices. 
+
+### Other Projects  
+For a comprehensive list of my projects and to explore more, visit my [GitHub repository](https://github.com/StephVergil?tab=repositories)
+
+
+---
+
 ## Professional Security and Development Toolkit  
 
 ### Network Monitoring and Analysis  
@@ -130,66 +182,6 @@ To leverage my skills in cybersecurity to design secure IT environments, tackle 
 <a href="https://github.com/JohnHammond/Steganography"><img src="https://img.shields.io/badge/-Stego_Toolbox-FF4500?&style=for-the-badge&logo=GitHub&logoColor=white" /></a>
 </div>
 
-
----
-
-## Education  
-
-- **Bachelor of Science (BS) in Cybersecurity and Information Assurance** (Ongoing)  
-  *Western Governors University*    
-
-- **Associate of Applied Science (AAS) in Cybersecurity**  
-  *Tarrant County College* | Honors Graduate
-
----
-
-## Projects  
-
-- **[Understanding Quantum Cryptography: A Practical Guide to Future-Proof Security](https://github.com/StephVergil/nderstanding-Quantum-Cryptography-A-Practical-Guide-to-Future-Proof-Security-)**  
-  An in-depth exploration of quantum cryptographic principles and their role in securing future digital communications.
-
- - **[Quantum Cryptography: A Deep Dive into Security, Science, and Philosophy](https://github.com/StephVergil/Quantum-Cryptography-A-Deep-Dive-into-Security-Science-and-Philosophy)**  
-  A thorough exploration of quantum cryptography, covering its security foundations, scientific principles, and philosophical implications.
-
-- **[Risk Management in Information Security](https://github.com/StephVergil/Risk-Management-in-Information-Security_Presentation/blob/main/README.md)**  
-  A comprehensive guide to managing risks in information security, including methodologies, standards, and strategies.
-  
-- **[Hardening Strategies for Diverse Operating Systems and Platforms](https://github.com/StephVergil/Hardening-Strategies-for-Diverse-Operating-Systems-and-Platforms)**  
-  Comprehensive techniques to improve security posture across various operating systems.
-
-- **[Password Strength Checker with Python](https://github.com/StephVergil/Hacking-and-Ethical-Hacking)**  
-  Development and enhancement of a Python-based tool to evaluate password strength, calculate entropy, and provide actionable feedback for single or bulk password analysis.  
-
-- **[Incident Response Procedures](https://github.com/StephVergil/Incident-Response-Procedures)**  
-  Comprehensive workflows for identifying, mitigating, and documenting incidents on compromised systems.  
-
-- **[Wireless Networking Attack and Mitigation Techniques](https://github.com/StephVergil/Wireless-Networking-Attack-and-Mitigation-Techniques)**  
-  Practical insights into wireless vulnerabilities and effective countermeasures.  
-
-- **[Generating and Analyzing DDoS Network Traffic](https://github.com/StephVergil/Generating-capturing-and-Analyzing-DoS-and-DDoS-centric-Network-Traffic)**  
-  Real-world simulations of denial-of-service attacks with detailed traffic analysis.
-
- - **[Analyzing Linux Rootkits](https://github.com/StephVergil/Analyzing-Linux-Rootkits/blob/main/README.md)**  
-  In-depth analysis and exploration of Linux rootkits, their mechanisms, and detection strategies to enhance system security.
-
-- **[Computer System Forensics](https://github.com/StephVergil/Computer-System-Forensics)**  
-  Detailed forensic analysis and methodologies for investigating computer systems.  
-
-- **[Password Lab](https://github.com/StephVergil/Password_Lab)**  
-  A hands-on exploration of password security, including evaluation and best practices. 
-
-### Other Projects  
-For a comprehensive list of my projects and to explore more, visit my [GitHub repository](https://github.com/StephVergil?tab=repositories)
-
-
----
-
-## Contact  
-
-- **Email**: [Stephanie Vergil](mailto:Stephanievergil95@gmail.com)  
-
-> "It's the job that's never started as takes longest to finish." – J.R.R. Tolkien, *The Lord of the Rings*
-
 ---
 
 <picture>
@@ -204,5 +196,11 @@ For a comprehensive list of my projects and to explore more, visit my [GitHub re
   <img alt="Stephanie's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=StephVergil&bg_color=ffffff&color=333333&line=ff69b4&point=ff69b4&area=true&area_color=ffa07a&hide_border=true">
 </picture>
 
-
 ---
+
+## Contact  
+
+- **Email**: [Stephanie Vergil](mailto:Stephanievergil95@gmail.com)  
+
+> "It's the job that's never started as takes longest to finish." – J.R.R. Tolkien, *The Lord of the Rings*
+
