@@ -7,7 +7,6 @@
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=StephVergil&style=flat-square&color=e75480">
 </picture> 
  
-  <a href="https://www.buymeacoffee.com/stephaniev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ###  
 <h1 align="center" style="font-family: 'Allura', cursive; font-size: 60px; text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);">
