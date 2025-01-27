@@ -88,8 +88,8 @@ To apply my cybersecurity expertise in designing secure IT infrastructures, addr
  - **[Analyzing Linux Rootkits](https://github.com/StephVergil/Analyzing-Linux-Rootkits/blob/main/README.md)**  
   In-depth analysis and exploration of Linux rootkits, their mechanisms, and detection strategies to enhance system security.
 
-- **[Computer System Forensics](https://github.com/StephVergil/Computer-System-Forensics)**  
-  Detailed forensic analysis and methodologies for investigating computer systems.  
+- **[Steganography and Digital Forensics Lab](https://github.com/StephVergil/Steganography-and-Digital-Forensics-Lab)**  
+ Hands-on lab exploring steganographic analysis and forensic investigation using tools like HxD and ProDiscover to uncover hidden data and analyze forensic images
 
 - **[Password Lab](https://github.com/StephVergil/Password_Lab)**  
   A hands-on exploration of password security, including evaluation and best practices. 
