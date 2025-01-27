@@ -14,7 +14,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand&size=35&duration=5000&pause=1000&color=FF80BF&center=true&vCenter=true&width=900&lines=Welcome+to+My+Profile;Cybersecurity+Analyst;Information+Security+Specialist;Network+Defense+Strategist;Intrusion+Detection+Expert;Operating+System+Security+Practitioner;Cloud+Computing+Professional;Ethical+Hacking+Specialist;Digital+Forensics+Investigator;Firewall+and+Network+Security+Specialist;Security+Assessment+and+Auditing+Advisor" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand&size=35&duration=5000&pause=1000&color=FF80BF&center=true&vCenter=true&width=900&lines=Welcome+to+My+Profile" alt="Typing SVG">
 </p>
 
 <p align="center" style="font-family: 'Great Vibes', cursive; font-size: 60px; color: #FF80BF; font-weight: bold; text-shadow: 4px 4px 8px rgba(255, 128, 191, 0.6), 0 0 10px rgba(255, 128, 191, 0.8); margin-top: 40px;">
