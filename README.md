@@ -7,24 +7,21 @@
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=StephVergil&style=flat-square&color=e75480">
 </picture> 
  
-
-###  
-<h1 align="center" style="font-family: 'Allura', cursive; font-size: 60px; text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);">
-  𝒲𝑒𝓁𝒸𝑜𝓂𝑒
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand&size=35&duration=5000&pause=1000&color=FF80BF&center=true&vCenter=true&width=900&lines=My+Profile" alt="Typing SVG">
-</p>
-
-<p align="center" style="font-family: 'Great Vibes', cursive; font-size: 60px; color: #FF80BF; font-weight: bold; text-shadow: 4px 4px 8px rgba(255, 128, 191, 0.6), 0 0 10px rgba(255, 128, 191, 0.8); margin-top: 40px;">
-  <strong>— 𝒮𝓉𝑒𝓅𝒽𝒶𝓃𝒾𝑒 𝒱𝑒𝓇𝑔𝒾𝓁</strong>
-</p>
-
-
-As a dedicated cybersecurity professional, I specialize in risk assessment, vulnerability management, and IT operations. With a solid background in Active Directory, cloud platforms (AWS, Azure), and programming languages such as Python, PowerShell, and C++, I have a proven track record of implementing effective solutions to minimize organizational risks, strengthen security frameworks, and support business continuity. Fluent in both English and Spanish, I offer a diverse perspective that enhances collaboration and contributes to securing modern IT environments.
-
+### 𝒮𝓉𝑒𝓅𝒽𝒶𝓃𝒾𝑒 𝒱𝑒𝓇𝑔𝒾𝓁 
 ---
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1203583&width=600&lines=Cybersecurity+Enthusiast;Digital+Forensics+Learner;Risk+Management+Explorer)](https://git.io/typing-svg)  
+--- 
+### About Me  
+Welcome to my GitHub!  
+I'm deeply interested in **cybersecurity**, and I enjoy working on projects that explore:  
+
+- **Risk Assessment** – Understanding and mitigating potential security challenges  
+- **Digital Forensics** – Investigating and analyzing digital traces  
+- **Secure Systems** – Exploring ways to enhance system protection  
+
+Feel free to explore my work and connect if you're interested in cybersecurity discussions or collaborations.
+
+
 
 ## Objective  
 
