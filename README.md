@@ -22,7 +22,7 @@
 </p>
 
 
-As a dedicated cybersecurity professional, I specialize in risk assessment, vulnerability management, and IT operations. With a solid background in Active Directory, cloud platforms (AWS, Azure), and programming languages such as Python, PowerShell, and C++, I have a proven track record of implementing effective solutions to minimize organizational risks, strengthen security frameworks, and support business continuity. Being bilingual in English and Spanish, I offer a diverse perspective that enhances collaboration and contributes to securing modern IT environments.
+As a dedicated cybersecurity professional, I specialize in risk assessment, vulnerability management, and IT operations. With a solid background in Active Directory, cloud platforms (AWS, Azure), and programming languages such as Python, PowerShell, and C++, I have a proven track record of implementing effective solutions to minimize organizational risks, strengthen security frameworks, and support business continuity. Fluent in both English and Spanish, I offer a diverse perspective that enhances collaboration and contributes to securing modern IT environments.
 
 ---
 
