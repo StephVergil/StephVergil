@@ -21,6 +21,7 @@ I’m a cybersecurity enthusiast passionate about learning and contributing to t
 **Objective**  
 
 To apply my cybersecurity expertise in designing secure IT infrastructures, addressing emerging threats, and contributing to innovative solutions that ensure the resilience of digital systems. I thrive in collaborative environments and am committed to continuous learning and growth in the ever-evolving field of cybersecurity.  
+
 ---
 
 ## Skills  
