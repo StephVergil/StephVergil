@@ -11,22 +11,16 @@
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1203583&width=600&lines=Cybersecurity+Enthusiast;Digital+Forensics+Learner;Risk+Management+Explorer)](https://git.io/typing-svg)  
 --- 
-### About Me  
+**About Me**  
+
 Welcome to my GitHub!  
-I'm deeply interested in **cybersecurity**, and I enjoy working on projects that explore:  
+I’m a cybersecurity enthusiast passionate about learning and contributing to the field of digital security. My interests include exploring quantum cryptography, understanding risk management strategies, and working on projects related to digital forensics and system hardening. I enjoy tackling challenges and collaborating on solutions that help make digital systems more secure and resilient.  
 
-- **Risk Assessment** – Understanding and mitigating potential security challenges  
-- **Digital Forensics** – Investigating and analyzing digital traces  
-- **Secure Systems** – Exploring ways to enhance system protection  
+---
 
-Feel free to explore my work and connect if you're interested in cybersecurity discussions or collaborations.
+**Objective**  
 
-
-
-## Objective  
-
-To apply my cybersecurity expertise in designing secure IT infrastructures, addressing emerging threats, and contributing to innovative solutions that ensure the resilience of digital systems. I thrive in collaborative environments and am committed to continuous learning and growth in the ever-evolving field of cybersecurity.
-
+To apply my cybersecurity expertise in designing secure IT infrastructures, addressing emerging threats, and contributing to innovative solutions that ensure the resilience of digital systems. I thrive in collaborative environments and am committed to continuous learning and growth in the ever-evolving field of cybersecurity.  
 ---
 
 ## Skills  
