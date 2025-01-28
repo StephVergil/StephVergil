@@ -9,7 +9,7 @@
  
 ### 𝒮𝓉𝑒𝓅𝒽𝒶𝓃𝒾𝑒 𝒱𝑒𝓇𝑔𝒾𝓁 
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1203583&width=600&lines=Cybersecurity+Enthusiast;Digital+Forensics+Learner;Risk+Management+Explorer)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=600&lines=Cybersecurity+Enthusiast;Secure+Systems+Designer;Digital+Forensics+Analyst;Risk+Management+Strategist;Quantum+Cryptography+Explorer)](https://git.io/typing-svg) 
 --- 
 **About Me**  
 
