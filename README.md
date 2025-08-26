@@ -46,7 +46,8 @@ To apply my cybersecurity expertise in designing secure IT infrastructures, addr
 
 ## Education  
 
-- **Bachelor of Science (BS) in Cybersecurity and Information Assurance** (Ongoing)  
+- **Western Governors University  
+Accelerated Bachelor of Science in Information Technology and Master of Science in IT Management** (Ongoing)  
   *Western Governors University*    
 
 - **Associate of Applied Science (AAS) in Cybersecurity**  
