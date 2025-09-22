@@ -46,9 +46,8 @@ To apply my cybersecurity expertise in designing secure IT infrastructures, addr
 
 ## Education  
 
-- **Western Governors University  
-Accelerated Bachelor of Science in Information Technology and Master of Science in IT Management** (Ongoing)  
-  *Western Governors University*    
+- **Bachelor of Science, Information Technology (BSIT to MSITM)**  
+  *Western Governors University* (ongoing)
 
 - **Associate of Applied Science (AAS) in Cybersecurity**  
   *Tarrant County College* | Honors Graduate
